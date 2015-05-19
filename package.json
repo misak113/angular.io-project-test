@@ -1,0 +1,26 @@
+{
+  "name": "angular.io-project-test",
+  "version": "1.0.0",
+  "description": "Testing performance",
+  "main": "app.js",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.23",
+    "typescript": "^1.5.0-beta"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misak113/angular.io-project-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misak113/angular.io-project-test/issues"
+  },
+  "homepage": "https://github.com/misak113/angular.io-project-test"
+}
